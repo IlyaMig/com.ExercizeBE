@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-07-05T14:53:34" hostname="LAPTOP-SD7E7RG0" time="0.008">
+  <properties/>
+  <testcase name="Purchase_1" classname="MyTest" time="0.007"/>
+  <testcase name="Purchase_2" classname="MyTest" time="0.0"/>
+  <testcase name="Purchase_3" classname="MyTest" time="0.0"/>
+  <system-out><![CDATA[1 chocolateBar : 0.85
+1 musicCD : 16.49
+1 book : 12.49
+Sales Taxes : 1.50
+Total : 29.83
+
+1 box of chocolate : 10.50
+1 bottle of perfume : 54.65
+Sales Taxes : 7.65
+Total : 65.15
+
+1 imported box of chocolate : 11.80
+1 bottle of perfume 2 : 20.89
+1 packet of headache pills : 9.75
+1 imported bottle of perfume : 32.19
+Sales Taxes : 6.65
+Total : 74.63
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
